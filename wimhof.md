@@ -50,3 +50,19 @@ Total time: 20m 16s
 DAY 3
 =====
 
+Noon
+
+First 30 inhalations: 3m 31s
+First breath hold: 1m 47s
+Pause, inhale and hold: 21s
+Second 30 inhalations : 3m 54s
+Second breath hold: 1m 43s
+Pause, inhale and hold: 23s
+Third 30 inhalations : 6m 39s  # Wow, I must have lost count or something. This whole process gets pretty disorienting after a while.
+Third breath hold: 1m 45s
+Pause, inhale and hold: 26s
+Relax until hands stop tingling: 4m 38s
+
+Total time: 25m 7s
+
+I'm more aware at other times of how I am breathing; the difference between the belly-breath and chest-breath will drift into my consciousness when I'm just sitting doing something else and sometimes I'll take a deeper breath than I would have before.
