@@ -66,3 +66,25 @@ Relax until hands stop tingling: 4m 38s
 Total time: 25m 7s
 
 I'm more aware at other times of how I am breathing; the difference between the belly-breath and chest-breath will drift into my consciousness when I'm just sitting doing something else and sometimes I'll take a deeper breath than I would have before.
+
+DAY 4
+=====
+
+Noon
+
+First 30 inhalations: 3m 37s
+First breath hold: 1m 42s
+Pause, inhale and hold: 21s
+Second 30 inhalations : 6m 14s
+Second breath hold: 1m 54s
+Pause, inhale and hold: 26s
+Third 30 inhalations : 5m 03s
+Third breath hold: 2m 08s
+Pause, inhale and hold: 36s
+Relax until hands stop tingling: 4m 45s
+
+Total time: 26m 49s
+
+Wow, I don't know why the inhalation times have started to increase so dramatically after the first round. I don't think I'm fainting, but maybe I'm just becoming more relaxed and establishing a slower natural rhythm.
+
+One thing I notice is some lower groin pain on the right side; I think I might be overdoing the deep belly breath a little, so I'll try to hold back a bit there tomorrow.
