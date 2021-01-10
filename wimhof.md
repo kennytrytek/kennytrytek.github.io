@@ -88,3 +88,30 @@ Total time: 26m 49s
 Wow, I don't know why the inhalation times have started to increase so dramatically after the first round. I don't think I'm fainting, but maybe I'm just becoming more relaxed and establishing a slower natural rhythm.
 
 One thing I notice is some lower groin pain on the right side; I think I might be overdoing the deep belly breath a little, so I'll try to hold back a bit there tomorrow.
+
+DAY 5
+=====
+
+Noon
+
+First 30 inhalations: 4m 34s
+First breath hold: 1m 47s
+Pause, inhale and hold: 23s
+Second 30 inhalations : 2m 11s  # probably shorted myself here, only 20-ish inhalations
+Second breath hold: 1m 42s
+Pause, inhale and hold: 28s
+Third 30 inhalations : 4m 20s
+Third breath hold: 1m 25s
+Pause, inhale and hold: 30s
+Relax until hands stop tingling: 6m 12s
+
+Total time: 23m 50s
+
+Timings might be off on this one, particularly after the second breath-hold. I have found that my hands want to curl closed during this exercise, and my left hand pressed the lap timer six extra times during the third cycle of inhalations and breath hold. I think to mitigate that I'll focus on keeping my left thumb pressed against the side of my hand until it's time to press the button, or maybe buy a stopwatch where it will require more force to press instead of using my phone, or I could set the phone on the floor instead of touching it.
+
+I've started moving my laptop to the floor and playing 30 minutes of meditative music from brain.fm so when I'm finished I can sit on the floor and type in my notes. The location of the laptop off the desk on the floor acts as a physical cue to take my time getting up and sit for a little bit while the music finishes.
+
+DAY 6
+=====
+
+Noon
