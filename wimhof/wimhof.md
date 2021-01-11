@@ -109,3 +109,27 @@ Total time: 23m 50s
 - Probably shorted myself on the second cycle, only 20-ish inhalations
 - Timings might be off on this one, particularly after the second breath-hold. I have found that my hands want to curl closed during this exercise, and my left hand pressed the lap timer six extra times during the third cycle of inhalations and breath hold. I think to mitigate that I'll focus on keeping my left thumb pressed against the side of my hand until it's time to press the button, or maybe buy a stopwatch where it will require more force to press instead of using my phone, or I could set the phone on the floor instead of touching it.
 - I've started moving my laptop to the floor and playing 30 minutes of meditative music from [brain.fm](https://www.brain.fm) so when I'm finished I can sit on the floor and type in my notes. The location of the laptop off the desk on the floor acts as a physical cue to take my time getting up and sit for a little bit while the music finishes.
+
+# DAY 6
+-------
+
+## Noon
+### Timings
+First 30 inhalations: 3m 54s  
+First breath hold: 1m 40s  
+Pause, inhale and hold: 28s  
+Second 30 inhalations : 4m 21s  
+Second breath hold: 1m 45s  
+Pause, inhale and hold: 26s  
+Third 30 inhalations : 2m 35s  
+Third breath hold: 1m 43s  
+Pause, inhale and hold: 16s  
+Relax until hands stop tingling: 4m 50s  
+  
+Total time: 22m 0s
+
+### Thoughts
+- The third cycle was shorter time on inhalations because I started saying the number of the inhalations out loud on the exhale. It is _a STRUGGLE_ to keep track of how many inhalations I've done. I was maybe a bit aggressive on keeping a fast pace here.
+- I'll keep trying breathing out audibly the number of the inhalation and see if that helps make timings more consistent or at least helps me to know for sure how many breaths I'm taking.
+- On the first two breath holds, I'm not trying to struggle to hold as long as I can, but on the third one I'm making a little more effort to fight the urge to breathe. As you can see from the timings, the faster third inhalation cycle didn't allow as much oxygen to get as deeply into my system so the breath hold there isn't any longer than the first two.
+
