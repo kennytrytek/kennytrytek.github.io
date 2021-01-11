@@ -108,6 +108,4 @@ Total time: 23m 50s
 ### Thoughts
 - Probably shorted myself on the second cycle, only 20-ish inhalations
 - Timings might be off on this one, particularly after the second breath-hold. I have found that my hands want to curl closed during this exercise, and my left hand pressed the lap timer six extra times during the third cycle of inhalations and breath hold. I think to mitigate that I'll focus on keeping my left thumb pressed against the side of my hand until it's time to press the button, or maybe buy a stopwatch where it will require more force to press instead of using my phone, or I could set the phone on the floor instead of touching it.
-- I've started moving my laptop to the floor and playing 30 minutes of meditative music from [brain.fm] so when I'm finished I can sit on the floor and type in my notes. The location of the laptop off the desk on the floor acts as a physical cue to take my time getting up and sit for a little bit while the music finishes.
-
-[brain.fm](https://www.brain.fm)
+- I've started moving my laptop to the floor and playing 30 minutes of meditative music from [brain.fm](https://www.brain.fm) so when I'm finished I can sit on the floor and type in my notes. The location of the laptop off the desk on the floor acts as a physical cue to take my time getting up and sit for a little bit while the music finishes.
