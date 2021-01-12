@@ -133,3 +133,26 @@ Total time: 22m 0s
 - I'll keep trying breathing out audibly the number of the inhalation and see if that helps make timings more consistent or at least helps me to know for sure how many breaths I'm taking.
 - On the first two breath holds, I'm not trying to struggle to hold as long as I can, but on the third one I'm making a little more effort to fight the urge to breathe. As you can see from the timings, the faster third inhalation cycle didn't allow as much oxygen to get as deeply into my system so the breath hold there isn't any longer than the first two.
 
+# DAY 7
+-------
+
+## Noon
+### Timings
+First 30 inhalations: 2m 45s  
+First breath hold: 1m 41s  
+Pause, inhale and hold: 28s  
+Second 30 inhalations : 3m 04s  
+Second breath hold: 1m 50s  
+Pause, inhale and hold: 28s  
+Third 30 inhalations : 2m 48s  
+Third breath hold: 1m 45s  
+Pause, inhale and hold: 38s  
+Relax until hands stop tingling: 4m 08s  
+  
+Total time: 19m 37s
+
+### Thoughts
+- I finally did it! 30 inhalations each cycle, paused after each breath hold, AND had the right number of button presses on the timer! Audibly exhaling the number of the breath kept my mind more engaged with the process and helped make it less disorienting.
+- I didn't breathe as intensely today, and the hard buzzing in my hands was less than it has been. I think I can go a bit deeper on the belly breath without hurting myself.
+- During the cycles, I keep my eyes closed; after finishing them, I keep my eyes open and stare at the ceiling while waiting for my hands to stop tingling. I don't know if there is any significance to that or not.
+
