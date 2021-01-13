@@ -1,11 +1,12 @@
 # The Wim Hof Method
-Hello! I am experimenting with the breathing techniques popularized most recently by Wim Hof. This page documents my experience and thoughts about it. I started doing this after a couple of my co-workers mentioned his books; I don't have any particular goal other than to see if it is beneficial or harmful for me.
+Hello! I am experimenting with the breathing techniques popularized most recently by Wim Hof. This page documents my experience and thoughts about it. I started doing this after a couple of my co-workers mentioned his books; I don't have any particular goal other than to see if I can notice any effects from it.
 
 ### The Conditions Under Which This Is Performed
-
+TODO
 
 ### Tips:
 - Don't stand up right away when you're done, sit first for a bit and then stand.
+- After each inhalation, audibly say the breath number after you release it. This will help considerably with producing a consistent experience, since it can otherwise be rather disorienting.
 
 # DAY 1
 -------
@@ -156,3 +157,24 @@ Total time: 19m 37s
 - I didn't breathe as intensely today, and the hard buzzing in my hands was less than it has been. I think I can go a bit deeper on the belly breath without hurting myself.
 - During the cycles, I keep my eyes closed; after finishing them, I keep my eyes open and stare at the ceiling while waiting for my hands to stop tingling. I don't know if there is any significance to that or not.
 
+# DAY 8
+-------
+
+## Noon
+### Timings
+First 30 inhalations: 2m 46s  
+First breath hold: 1m 30s  
+Pause, inhale and hold: 24s  
+Second 30 inhalations : 3m 12s  
+Second breath hold: 1m 45s  
+Pause, inhale and hold: 21s  
+Third 35 inhalations : 3m 37s  
+Third breath hold: 1m 58s  
+Pause, inhale and hold: 25s  
+Relax until hands stop tingling: 4m 20s  
+  
+Total time: 20m 21s
+
+### Thoughts
+- Nice, this is a lot more consistent. After each inhalation and release, I'm audibly saying the breath count; it really helps keep things on track.
+- I'm going to experiment with the number of inhalations per cycle. I'm thinking 30, 35, 40 will be a good way to achieve a deeper effect. I was previously probably unintentionally getting up to 40 or 50 inhalations before, so it will be interesting to see how much I can control the intensity of the effects.
