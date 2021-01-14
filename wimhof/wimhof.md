@@ -178,3 +178,27 @@ Total time: 20m 21s
 ### Thoughts
 - Nice, this is a lot more consistent. After each inhalation and release, I'm audibly saying the breath count; it really helps keep things on track.
 - I'm going to experiment with the number of inhalations per cycle. I'm thinking 30, 35, 40 will be a good way to achieve a deeper effect. I was previously probably unintentionally getting up to 40 or 50 inhalations before, so it will be interesting to see how much I can control the intensity of the effects.
+
+# DAY 9
+-------
+
+## Noon
+### Timings
+First 30 inhalations: 2m 52s  
+First breath hold: 1m 24s  
+Pause, inhale and hold: 24s  
+Second 35 inhalations : 3m 23s  
+Second breath hold: 1m 47s  
+Pause, inhale and hold: 24s  
+Third 40 inhalations : 3m 53s  
+Third breath hold: 2m 6s  
+Pause, inhale and hold: 23s  
+Relax until hands stop tingling: 4m 30s  
+  
+Total time: 21m 08s
+
+### Thoughts
+- Increased inhalations by five each cycle; I like that progression, it feels controlled.
+- Felt the "hard buzzing" in my hands more intensely at the end of the third cycle. Number of inhalations appears to be the controlling factor there.
+- If I were to add a fourth cycle, I'm not sure if I would do 40 or 45 inhalations. I'm enjoying the convenience of the 30-minute timing of the three cycles right now though, since it takes me just under ten minutes to type up my thoughts each day.
+
