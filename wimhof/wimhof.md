@@ -202,3 +202,24 @@ Total time: 21m 08s
 - Felt the "hard buzzing" in my hands more intensely at the end of the third cycle. Number of inhalations appears to be the controlling factor there.
 - If I were to add a fourth cycle, I'm not sure if I would do 40 or 45 inhalations. I'm enjoying the convenience of the 30-minute timing of the three cycles right now though, since it takes me just under ten minutes to type up my thoughts each day.
 
+# DAY 10
+-------
+
+## 5pm
+### Timings
+First 30 inhalations: 3m 28s  
+First breath hold: 1m 40s  
+Pause, inhale and hold: 22s  
+Second 35 inhalations : 4m 30s  
+Second breath hold: 1m 52s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 5m 32s  
+Third breath hold: 2m 42s  
+Pause, inhale and hold: 23s  
+Relax until hands stop tingling: 5m 00s  
+  
+Total time: 25m 52s
+
+### Thoughts
+- Did the breathing exercise with Maggie this time since we both had the day off. It was nice. :)
+
