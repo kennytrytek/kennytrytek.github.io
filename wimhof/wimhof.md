@@ -223,3 +223,23 @@ Total time: 25m 52s
 ### Thoughts
 - Did the breathing exercise with Maggie this time since we both had the day off. It was nice. :)
 
+# DAY 11
+-------
+
+## Noon
+### Timings
+First 30 inhalations: 3m 15s  
+First breath hold: 1m 31s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 3m 49s  
+Second breath hold: 1m 51s  
+Pause, inhale and hold: 23s  
+Third 40 inhalations : 3m 51s  
+Third breath hold: 2m 15s  
+Pause, inhale and hold: 27s  
+Relax until hands stop tingling: 4m 30s  
+  
+Total time: 22m 15s
+
+### Thoughts
+- I'd like to make a YouTube video with a guided walk through this exercise. This is a nice way to relax.
