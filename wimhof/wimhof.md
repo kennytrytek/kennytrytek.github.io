@@ -243,3 +243,25 @@ Total time: 22m 15s
 
 ### Thoughts
 - I'd like to make a YouTube video with a guided walk through this exercise. This is a nice way to relax.
+
+# DAY 12
+-------
+
+## Noon
+### Timings
+First 30 inhalations: 3m 16s  
+First breath hold: 1m 23s  
+Pause, inhale and hold: 26s  
+Second 35 inhalations : 3m 40s  
+Second breath hold: 1m 50s  
+Pause, inhale and hold: 26s  
+Third 40 inhalations : 4m 51s  
+Third breath hold: 2m 10s  
+Pause, inhale and hold: 16s  
+Relax until hands stop tingling: 4m 37s  
+  
+Total time: 22m 59s
+
+### Thoughts
+- I made sure to take my time during the third cycle; slowing the intake breaths definitely helps deepen the experience.
+- If I do make YouTube videos, I think a title of "Wim Hof Method Breathing #1: 30, 35, 40" will be useful. I can adjust the title to reflect the number of cycles and inhalations per cycle, maybe putting each breath combination in a different playlist.
