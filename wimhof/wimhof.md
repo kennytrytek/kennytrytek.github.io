@@ -265,3 +265,24 @@ Total time: 22m 59s
 ### Thoughts
 - I made sure to take my time during the third cycle; slowing the intake breaths definitely helps deepen the experience.
 - If I do make YouTube videos, I think a title of "Wim Hof Method Breathing #1: 30, 35, 40" will be useful. I can adjust the title to reflect the number of cycles and inhalations per cycle, maybe putting each breath combination in a different playlist.
+
+# DAY 13
+-------
+
+## Noon
+### Timings
+First 30 inhalations: 3m 41s  
+First breath hold: 1m 30s  
+Pause, inhale and hold: 20s  
+Second 35 inhalations : 4m 15s  
+Second breath hold: 1m 51s  
+Pause, inhale and hold: 20s  
+Third 40 inhalations : 4m 49s  
+Third breath hold: 2m 23s  
+Pause, inhale and hold: 23s  
+Relax until hands stop tingling: 4m 58s  
+  
+Total time: 24m 33s
+
+### Thoughts
+- I recorded this one! Hopefully the video looks good and I can upload daily to YouTube. I need to add an introduction video to start the playlist as well as record some outtro I can tack on at the end of each video, but I'm pretty happy with how things looked and it doesn't change my experience any; if anything, it provides a deeper experience for me because I'm focusing more.
