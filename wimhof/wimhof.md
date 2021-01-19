@@ -1,8 +1,9 @@
 # The Wim Hof Method
 Hello! I am experimenting with the breathing techniques popularized most recently by Wim Hof. This page documents my experience and thoughts about it. I started doing this after a couple of my co-workers mentioned his books; I don't have any particular goal other than to see if I can notice any effects from it.
 
-### The Conditions Under Which This Is Performed
-TODO
+### YouTube Videos
+I am posting videos of my practice to YouTube for anyone who wants to follow along. There is an introduction and a series of guided meditations in this playlist:  
+https://www.youtube.com/watch?v=MHfY5g2RfOY&list=PLYyIPA-0NnN2jTw4YTQZPvMB_K7MH0IRd
 
 ### Tips:
 - Don't stand up right away when you're done, sit first for a bit and then stand.
@@ -10,6 +11,9 @@ TODO
 
 # DAY 1
 -------
+
+_No video available_
+
 ## Noon
 ### Timings
 First 30 inhalations: 4m 48s  
@@ -28,6 +32,9 @@ Total time: 24m 36s
 
 # DAY 2
 -------
+
+_No video available_
+
 ## Noon
 ### Timings
 First 30 inhalations: 3m 33s  
@@ -47,6 +54,9 @@ Total time: 20m 16s
 
 # DAY 3
 -------
+
+_No video available_
+
 ## Noon
 ### Timings
 First 30 inhalations: 3m 31s  
@@ -69,6 +79,8 @@ Total time: 25m 7s
 # DAY 4
 -------
 
+_No video available_
+
 ## Noon
 ### Timings
 First 30 inhalations: 3m 37s  
@@ -90,6 +102,8 @@ Total time: 26m 49s
 
 # DAY 5
 -------
+
+_No video available_
 
 ## Noon
 ### Timings
@@ -114,6 +128,8 @@ Total time: 23m 50s
 # DAY 6
 -------
 
+_No video available_
+
 ## Noon
 ### Timings
 First 30 inhalations: 3m 54s  
@@ -136,6 +152,8 @@ Total time: 22m 0s
 
 # DAY 7
 -------
+
+_No video available_
 
 ## Noon
 ### Timings
@@ -160,6 +178,8 @@ Total time: 19m 37s
 # DAY 8
 -------
 
+_No video available_
+
 ## Noon
 ### Timings
 First 30 inhalations: 2m 46s  
@@ -181,6 +201,8 @@ Total time: 20m 21s
 
 # DAY 9
 -------
+
+_No video available_
 
 ## Noon
 ### Timings
@@ -205,6 +227,8 @@ Total time: 21m 08s
 # DAY 10
 -------
 
+_No video available_
+
 ## 5pm
 ### Timings
 First 30 inhalations: 3m 28s  
@@ -226,6 +250,8 @@ Total time: 25m 52s
 # DAY 11
 -------
 
+_No video available_
+
 ## Noon
 ### Timings
 First 30 inhalations: 3m 15s  
@@ -246,6 +272,8 @@ Total time: 22m 15s
 
 # DAY 12
 -------
+
+_No video available_
 
 ## Noon
 ### Timings
@@ -269,6 +297,8 @@ Total time: 22m 59s
 # DAY 13
 -------
 
+https://www.youtube.com/watch?v=0sNHe3ZiTcg
+
 ## Noon
 ### Timings
 First 30 inhalations: 3m 41s  
@@ -286,3 +316,26 @@ Total time: 24m 33s
 
 ### Thoughts
 - I recorded this one! Hopefully the video looks good and I can upload daily to YouTube. I need to add an introduction video to start the playlist as well as record some outtro I can tack on at the end of each video, but I'm pretty happy with how things looked and it doesn't change my experience any; if anything, it provides a deeper experience for me because I'm focusing more.
+
+# DAY 14
+-------
+
+_No video available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 57s  
+First breath hold: 1m 27s  
+Pause, inhale and hold: 23s  
+Second 35 inhalations : 4m 01s  
+Second breath hold: 1m 50s  
+Pause, inhale and hold: 24s  
+Third 40 inhalations : 4m 41s  
+Third breath hold: 2m 21s  
+Pause, inhale and hold: 21s  
+Relax until hands stop tingling: 4m 37s  
+  
+Total time: 24m 06s
+
+### Thoughts
+- I'll update the previous day's video each day since it should be uploaded by then.
