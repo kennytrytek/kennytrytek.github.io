@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=MHfY5g2RfOY&list=PLYyIPA-0NnN2jTw4YTQZPvMB_K7MH0
 # DAY 1
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -33,7 +33,7 @@ Total time: 24m 36s
 # DAY 2
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -55,7 +55,7 @@ Total time: 20m 16s
 # DAY 3
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -79,7 +79,7 @@ Total time: 25m 7s
 # DAY 4
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -103,7 +103,7 @@ Total time: 26m 49s
 # DAY 5
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -128,7 +128,7 @@ Total time: 23m 50s
 # DAY 6
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -153,7 +153,7 @@ Total time: 22m 0s
 # DAY 7
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -178,7 +178,7 @@ Total time: 19m 37s
 # DAY 8
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -202,7 +202,7 @@ Total time: 20m 21s
 # DAY 9
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -227,7 +227,7 @@ Total time: 21m 08s
 # DAY 10
 -------
 
-_No video available_
+_No recording available_
 
 ## 5pm
 ### Timings
@@ -250,7 +250,7 @@ Total time: 25m 52s
 # DAY 11
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -273,7 +273,7 @@ Total time: 22m 15s
 # DAY 12
 -------
 
-_No video available_
+_No recording available_
 
 ## Noon
 ### Timings
@@ -297,7 +297,7 @@ Total time: 22m 59s
 # DAY 13
 -------
 
-https://www.youtube.com/watch?v=0sNHe3ZiTcg
+Recording: https://www.youtube.com/watch?v=0sNHe3ZiTcg
 
 ## Noon
 ### Timings
@@ -320,7 +320,7 @@ Total time: 24m 33s
 # DAY 14
 -------
 
-_No video available_
+Recording: https://www.youtube.com/watch?v=rPgDVvV6B_w
 
 ## Noon
 ### Timings
@@ -339,3 +339,26 @@ Total time: 24m 06s
 
 ### Thoughts
 - I'll update the previous day's video each day since it should be uploaded by then.
+
+# DAY 15
+-------
+
+_No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 50s  
+First breath hold: 1m 31s  
+Pause, inhale and hold: 25s  
+Second 35 inhalations : 4m 09s  
+Second breath hold: 2m 0s  
+Pause, inhale and hold: 20s  
+Third 40 inhalations : 4m 36s  
+Third breath hold: 2m 21s  
+Pause, inhale and hold: 20s  
+Relax until hands stop tingling: 4m 27s  
+  
+Total time: 24m 02s
+
+### Thoughts
+- _No new thoughts today_
