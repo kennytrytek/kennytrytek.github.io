@@ -343,7 +343,7 @@ Total time: 24m 06s
 # DAY 15
 -------
 
-_No recording available_
+Recording: https://www.youtube.com/watch?v=3f5cBDezUYA
 
 ## Noon
 ### Timings
@@ -362,3 +362,28 @@ Total time: 24m 02s
 
 ### Thoughts
 - _No new thoughts today_
+
+# DAY 16
+-------
+
+_No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 13s  
+First breath hold: 1m 32s  
+Pause, inhale and hold: 24s  
+Second 35 inhalations : 4m 12s  
+Second breath hold: 1m 54s  
+Pause, inhale and hold: 24s  
+Third 40 inhalations : 4m 28s  
+Third breath hold: 2m 23s  
+Pause, inhale and hold: 18s  
+Relax until hands stop tingling: 4m 30s  
+  
+Total time: 23m 21s
+
+### Thoughts
+- Lots of train noises today; not distracting to me, but I was wondering if it's distracting to people watching the videos I'm recording. ¯\\\_(ツ)\_/¯
+- I have noticed that I am able to sustain mental focus for a longer period of time, and that my ability to remain calm at other times during the day has increased. I'm feeling a greater drive or sense of purpose. I don't know if I can attribute that to this method or not, but it is something I have been more consistently experiencing.
+
