@@ -433,3 +433,26 @@ Total time: 28m 08s
 ### Thoughts
 - Wow, 40 breaths each time really deepened things quite a bit. Almost three minutes for the third breath hold, and the second wasn't far behind. I also relaxed at the end for a longer period of time without even thinking about it.
 - Definitely felt a more intense hand buzzing today. Nothing anywhere else, just my hands.
+
+# DAY 19
+-------
+
+Recording: _No recording available_
+
+## Noon
+### Timings
+First 40 inhalations: 4m 19s  
+First breath hold: 1m 53s  
+Pause, inhale and hold: 21s  
+Second 30 inhalations : 3m 30s  
+Second breath hold: 2m 04s  
+Pause, inhale and hold: 25s  
+Third 40 inhalations : 4m 48s  
+Third breath hold: 2m 38s  
+Pause, inhale and hold: 25s  
+Relax until hands stop tingling: 4m 31s  
+  
+Total time: 24m 58s
+
+### Thoughts
+- _No new thoughts today_
