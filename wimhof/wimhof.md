@@ -297,7 +297,7 @@ Total time: 22m 59s
 # DAY 13
 -------
 
-Recording: https://www.youtube.com/watch?v=0sNHe3ZiTcg
+Recording (#1): https://www.youtube.com/watch?v=0sNHe3ZiTcg
 
 ## Noon
 ### Timings
@@ -320,7 +320,7 @@ Total time: 24m 33s
 # DAY 14
 -------
 
-Recording: https://www.youtube.com/watch?v=rPgDVvV6B_w
+Recording (#2): https://www.youtube.com/watch?v=rPgDVvV6B_w
 
 ## Noon
 ### Timings
@@ -343,7 +343,7 @@ Total time: 24m 06s
 # DAY 15
 -------
 
-Recording: https://www.youtube.com/watch?v=3f5cBDezUYA
+Recording (#3): https://www.youtube.com/watch?v=3f5cBDezUYA
 
 ## Noon
 ### Timings
@@ -366,7 +366,7 @@ Total time: 24m 02s
 # DAY 16
 -------
 
-Recording: https://www.youtube.com/watch?v=FKlouh1dfeA
+Recording (#4): https://www.youtube.com/watch?v=FKlouh1dfeA
 
 ## Noon
 ### Timings
@@ -390,7 +390,7 @@ Total time: 23m 21s
 # DAY 17
 -------
 
-Recording: https://www.youtube.com/watch?v=9UnDUDjnIYE
+Recording (#5): https://www.youtube.com/watch?v=9UnDUDjnIYE
 
 ## Noon
 ### Timings
@@ -413,7 +413,7 @@ Total time: 23m 26s
 # DAY 18
 -------
 
-Recording: _No recording available_
+Recording (#6): https://www.youtube.com/watch?v=YZm8k-_lTZA
 
 ## Noon
 ### Timings
@@ -437,7 +437,7 @@ Total time: 28m 08s
 # DAY 19
 -------
 
-Recording: _No recording available_
+Recording (#7): https://www.youtube.com/watch?v=l8egKRLVZds
 
 ## Noon
 ### Timings
@@ -456,3 +456,26 @@ Total time: 24m 58s
 
 ### Thoughts
 - _No new thoughts today_
+
+# DAY 20
+-------
+
+Recording: _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 38s  
+First breath hold: 1m 32s  
+Pause, inhale and hold: 23s  
+Second 35 inhalations : 4m 00s  
+Second breath hold: 1m 54s  
+Pause, inhale and hold: 22s  
+Third 40 inhalations : 4m 45s  
+Third breath hold: 2m 18s  
+Pause, inhale and hold: 23s  
+Relax until hands stop tingling: 4m 31s  
+  
+Total time: 23m 48s
+
+### Thoughts
+- I think I'll do 30, 35, 40 during the week and experiment on the weekends with more breaths or more cycles since I'll have more time.
