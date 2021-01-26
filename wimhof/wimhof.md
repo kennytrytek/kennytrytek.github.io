@@ -460,7 +460,7 @@ Total time: 24m 58s
 # DAY 20
 -------
 
-Recording: _No recording available_
+Recording (#8): https://www.youtube.com/watch?v=GJY4MGHg1BI
 
 ## Noon
 ### Timings
@@ -479,3 +479,26 @@ Total time: 23m 48s
 
 ### Thoughts
 - I think I'll do 30, 35, 40 during the week and experiment on the weekends with more breaths or more cycles since I'll have more time.
+
+# DAY 21
+-------
+
+Recording (#9): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 21s  
+First breath hold: 1m 35s  
+Pause, inhale and hold: 23s  
+Second 35 inhalations : 4m 09s  
+Second breath hold: 1m 55s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 4m 29s  
+Third breath hold: 2m 47s  
+Pause, inhale and hold: 21s  
+Relax until hands stop tingling: 4m 36s  
+  
+Total time: 23m 59s
+
+### Thoughts
+- _No new thoughts today_
