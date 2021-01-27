@@ -483,7 +483,7 @@ Total time: 23m 48s
 # DAY 21
 -------
 
-Recording (#9): _No recording available_
+Recording (#9): https://www.youtube.com/watch?v=AjMscbogy0M
 
 ## Noon
 ### Timings
@@ -502,3 +502,26 @@ Total time: 23m 59s
 
 ### Thoughts
 - _No new thoughts today_
+
+# DAY 22
+-------
+
+Recording (#10): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 48s  
+First breath hold: 1m 29s  
+Pause, inhale and hold: 23s  
+Second 35 inhalations : 3m 55s  
+Second breath hold: 1m 51s  
+Pause, inhale and hold: 26s  
+Third 40 inhalations : 4m 27s  
+Third breath hold: 2m 17s  
+Pause, inhale and hold: 23s  
+Relax until hands stop tingling: 4m 30s  
+  
+Total time: 23m 30s
+
+### Thoughts
+- Was thinking about a problem at work during the first round, solved it during the second round, and was actually able to relax in the third. Seems like this breathing exercise is a good problem-solving method too. :)
