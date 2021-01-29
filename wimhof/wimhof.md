@@ -529,7 +529,7 @@ Total time: 23m 30s
 # DAY 23
 -------
 
-Recording (#11): _No recording available_
+Recording (#11): https://www.youtube.com/watch?v=MFCBHoWuqkU
 
 ## Noon
 ### Timings
@@ -548,3 +548,27 @@ Total time: 24m 54s
 
 ### Thoughts
 - _No new thoughts today_
+
+# DAY 24
+-------
+
+Recording (#12): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 21s  
+First breath hold: 1m 37s  
+Pause, inhale and hold: 24s  
+Second 35 inhalations : 4m 00s  
+Second breath hold: 1m 53s  
+Pause, inhale and hold: 23s  
+Third 40 inhalations : 4m 13s  
+Third breath hold: 2m 22s  
+Pause, inhale and hold: 24s  
+Relax until hands stop tingling: 5m 08s  
+  
+Total time: 23m 47s
+
+### Thoughts
+- _No new thoughts today_
+
