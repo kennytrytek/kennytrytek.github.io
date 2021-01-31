@@ -575,7 +575,7 @@ Total time: 23m 47s
 # DAY 25
 -------
 
-Recording (#13): _No recording available_
+Recording (#13): https://www.youtube.com/watch?v=O4Bf6RLC6h8
 
 ## Noon
 ### Timings
@@ -594,3 +594,26 @@ Total time: 24m 52s
 
 ### Thoughts
 - _No new thoughts today_
+
+# DAY 26
+-------
+
+Recording (#14): _No recording available_
+
+## 5pm
+### Timings
+First 40 inhalations: 4m 14s  
+First breath hold: 1m 37s  
+Pause, inhale and hold: 21s  
+Second 40 inhalations : 4m 20s  
+Second breath hold: 2m 03s  
+Pause, inhale and hold: 24s  
+Third 40 inhalations : 4m 13s  
+Third breath hold: 2m 44s  
+Pause, inhale and hold: 22s  
+Relax until hands stop tingling: 4m 39s  
+  
+Total time: 25m 00s
+
+### Thoughts
+- I had a lot of things on my mind going into this one since it was in the evening. I'm currently feeling relaxed, calm, and energized for the rest of the night.
