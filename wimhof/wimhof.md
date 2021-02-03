@@ -644,7 +644,7 @@ Total time: 22m 00s
 # DAY 28
 -------
 
-Recording (#16): _No recording available_
+Recording (#16): https://www.youtube.com/watch?v=UjeG2ykjwhY
 
 ## Noon
 ### Timings
@@ -663,4 +663,27 @@ Total time: 22m 37s
 
 ### Thoughts
 - _No new thoughts today_
+
+# DAY 29
+-------
+
+Recording (#17): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 21s  
+First breath hold: 1m 32s  
+Pause, inhale and hold: 27s  
+Second 40 inhalations : 4m 34s  
+Second breath hold: 1m 58s  
+Pause, inhale and hold: 27s  
+Third 40 inhalations : 4m 28s  
+Third breath hold: 2m 22s  
+Pause, inhale and hold: 22s  
+Relax until hands stop tingling: 5m 05s  
+  
+Total time: 24m 36s
+
+### Thoughts
+- I intentionally counted wrong durng the second round of breaths and did 40 instead of 35. I can tend to be hypervigilant about my own performance, and I don't want to convey that critical spirit to others (or myself, really) and judge them for little things instead of accepting them in a loving way. Somtimes I also intentionally leave spelling errors in my emails to also help combat that attitude.
 
