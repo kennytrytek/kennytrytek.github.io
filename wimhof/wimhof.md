@@ -667,7 +667,7 @@ Total time: 22m 37s
 # DAY 29
 -------
 
-Recording (#17): _No recording available_
+Recording (#17): https://www.youtube.com/watch?v=7mmOvY6C7_8
 
 ## Noon
 ### Timings
@@ -686,4 +686,27 @@ Total time: 24m 36s
 
 ### Thoughts
 - I intentionally counted wrong durng the second round of breaths and did 40 instead of 35. I can tend to be hypervigilant about my own performance, and I don't want to convey that critical spirit to others (or myself, really) and judge them for little things instead of accepting them in a loving way. Somtimes I also intentionally leave spelling errors in my emails to also help combat that attitude.
+
+# DAY 30
+-------
+
+Recording (#18): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 01s  
+First breath hold: 1m 30s  
+Pause, inhale and hold: 22s  
+Second 35 inhalations : 3m 33s  
+Second breath hold: 1m 52s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 3m 33s  
+Third breath hold: 2m 12s  
+Pause, inhale and hold: 21s  
+Relax until hands stop tingling: 4m 34s  
+  
+Total time: 21m 18s
+
+### Thoughts
+- I experimented with the pacing in this one; the third round took the same amount of time as the second even though there were five more breaths. I don't think the experience is as good that way; I'll keep a more consistent pacing as before.
 
