@@ -690,7 +690,7 @@ Total time: 24m 36s
 # DAY 30
 -------
 
-Recording (#18): _No recording available_
+Recording (#18): https://www.youtube.com/watch?v=-fH29cX1MbE
 
 ## Noon
 ### Timings
@@ -709,4 +709,27 @@ Total time: 21m 18s
 
 ### Thoughts
 - I experimented with the pacing in this one; the third round took the same amount of time as the second even though there were five more breaths. I don't think the experience is as good that way; I'll keep a more consistent pacing as before.
+
+# DAY 31
+-------
+
+Recording (#19): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 15s  
+First breath hold: 1m 33s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 4m 06s  
+Second breath hold: 1m 53s  
+Pause, inhale and hold: 20s  
+Third 40 inhalations : 4m 28s  
+Third breath hold: 2m 32s  
+Pause, inhale and hold: 23s  
+Relax until hands stop tingling: 4m 42s  
+  
+Total time: 23m 37s
+
+### Thoughts
+- I'm wondering how related this breathing technique is to a fear-suppression breathing process I have learned in the past. If you're feeling afraid, it can be helpful to do this a few times: take a sharp breath in, throw your hands up by your ears and arch your back in surprise, then blow air out in a slow exhalation. While Wim's technique focuses on keeping as much oxygen in your system as possible, I wonder if it has a similar effective application in felt fear reduction.
 
