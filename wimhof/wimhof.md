@@ -759,7 +759,7 @@ Total time: 25m 35s
 # DAY 33
 -------
 
-Recording (#21): _No recording available_
+Recording (#21): https://www.youtube.com/watch?v=2fPFPsHW8B8
 
 ## Noon
 ### Timings
@@ -778,4 +778,27 @@ Total time: 27m 56s
 
 ### Thoughts
 - Well, a higher number of breaths didn't seem to change the intensity, though I suspect a fourth cycle would. Maybe I'll try that next weekend.
+
+# DAY 34
+-------
+
+Recording (#22): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 2m 59s  
+First breath hold: 1m 23s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 3m 28s  
+Second breath hold: 1m 53s  
+Pause, inhale and hold: 27s  
+Third 40 inhalations : 3m 53s  
+Third breath hold: 2m 31s  
+Pause, inhale and hold: 22s  
+Relax until hands stop tingling: 4m 41s  
+  
+Total time: 22m 01s
+
+### Thoughts
+- Today I was focusing on breathing out slowly through my nose and retaining as much air as possible before the next inhalation. Seemed to help intensify the result a little; I will keep focusing on this.
 
