@@ -782,7 +782,7 @@ Total time: 27m 56s
 # DAY 34
 -------
 
-Recording (#22): _No recording available_
+Recording (#22): https://www.youtube.com/watch?v=b5SdZ417EwM
 
 ## Noon
 ### Timings
@@ -801,4 +801,32 @@ Total time: 22m 01s
 
 ### Thoughts
 - Today I was focusing on breathing out slowly through my nose and retaining as much air as possible before the next inhalation. Seemed to help intensify the result a little; I will keep focusing on this.
+
+# DAY 35
+-------
+
+Unfortunately, I did not have time to breathe today. Ack!
+
+# DAY 36
+-------
+
+Recording (#23): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 31s  
+First breath hold: 1m 30s  
+Pause, inhale and hold: 24s  
+Second 35 inhalations : 3m 52s  
+Second breath hold: 2m 00s  
+Pause, inhale and hold: 20s  
+Third 40 inhalations : 4m 12s  
+Third breath hold: 2m 42s  
+Pause, inhale and hold: 20s  
+Relax until hands stop tingling: 4m 44s  
+  
+Total time: 23m 38s
+
+### Thoughts
+- _No new thoughts today._
 
