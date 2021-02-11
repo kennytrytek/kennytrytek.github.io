@@ -810,7 +810,7 @@ Unfortunately, I did not have time to breathe today. Ack!
 # DAY 36
 -------
 
-Recording (#23): _No recording available_
+Recording (#23): https://www.youtube.com/watch?v=JGHws_ANmp4
 
 ## Noon
 ### Timings
@@ -829,4 +829,28 @@ Total time: 23m 38s
 
 ### Thoughts
 - _No new thoughts today._
+
+# DAY 37
+-------
+
+Recording (#24): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 26s  
+First breath hold: 1m 30s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 3m 58s  
+Second breath hold: 2m 03s  
+Pause, inhale and hold: 20s  
+Third 40 inhalations : 4m 00s  
+Third breath hold: 3m 14s  
+Pause, inhale and hold: 25s  
+Relax until hands stop tingling: 4m 31s  
+  
+Total time: 23m 50s
+
+### Thoughts
+- Man, I was distracted today. I think this is the first time I haven't reached a total restful state; there are a lot of thoughts from work running around in my head, and I have PTO tomorrow so I'm trying to sort it all out by the end of the day.
+- I don't know what the difference was on the third breathing cycle, but a 3+ minute breath hold felt easy today for some reason.
 
