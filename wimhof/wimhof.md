@@ -833,7 +833,7 @@ Total time: 23m 38s
 # DAY 37
 -------
 
-Recording (#24): _No recording available_
+Recording (#24): https://www.youtube.com/watch?v=sravCSKh-s4
 
 ## Noon
 ### Timings
@@ -853,4 +853,27 @@ Total time: 23m 50s
 ### Thoughts
 - Man, I was distracted today. I think this is the first time I haven't reached a total restful state; there are a lot of thoughts from work running around in my head, and I have PTO tomorrow so I'm trying to sort it all out by the end of the day.
 - I don't know what the difference was on the third breathing cycle, but a 3+ minute breath hold felt easy today for some reason.
+
+# DAY 38
+-------
+
+Recording (#25): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 37s  
+First breath hold: 1m 29s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 4m 05s  
+Second breath hold: 1m 54s  
+Pause, inhale and hold: 24s  
+Third 40 inhalations : 4m 36s  
+Third breath hold: 2m 44s  
+Pause, inhale and hold: 21s  
+Relax until hands stop tingling: 5m 00s  
+  
+Total time: 24m 33s
+
+### Thoughts
+- I want to share this breathing exercise with the Edge Venture men. I think it could be a helpful practice for some, as it has been helpful for me.
 
