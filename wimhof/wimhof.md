@@ -857,7 +857,7 @@ Total time: 23m 50s
 # DAY 38
 -------
 
-Recording (#25): _No recording available_
+Recording (#25): https://www.youtube.com/watch?v=jPtPiC93lk8
 
 ## Noon
 ### Timings
@@ -876,4 +876,27 @@ Total time: 24m 33s
 
 ### Thoughts
 - I want to share this breathing exercise with the Edge Venture men. I think it could be a helpful practice for some, as it has been helpful for me.
+
+# DAY 39
+-------
+
+Recording (#26): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 28s  
+First breath hold: 1m 28s  
+Pause, inhale and hold: 24s  
+Second 35 inhalations : 4m 08s  
+Second breath hold: 1m 57s  
+Pause, inhale and hold: 23s  
+Third 40 inhalations : 4m 26s  
+Third breath hold: 2m 30s  
+Pause, inhale and hold: 21s  
+Relax until hands stop tingling: 4m 38s  
+  
+Total time: 23m 46s
+
+### Thoughts
+- _No new thoughts today._
 
