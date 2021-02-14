@@ -880,7 +880,7 @@ Total time: 24m 33s
 # DAY 39
 -------
 
-Recording (#26): _No recording available_
+Recording (#26): https://www.youtube.com/watch?v=wZJe8ClhDA8
 
 ## Noon
 ### Timings
@@ -899,4 +899,30 @@ Total time: 23m 46s
 
 ### Thoughts
 - _No new thoughts today._
+
+# DAY 40
+-------
+
+Recording (#27): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 20s  
+First breath hold: 1m 23s  
+Pause, inhale and hold: 22s  
+Second 30 inhalations : 3m 39s  
+Second breath hold: 1m 46s  
+Pause, inhale and hold: 21s  
+Third 30 inhalations : 3m 46s  
+Third breath hold: 2m 10s  
+Pause, inhale and hold: 22s  
+Fourth 30 inhalations : 3m 29s  
+Fourth breath hold: 2m 26s  
+Pause, inhale and hold: 21s  
+Relax until hands stop tingling: 4m 51s  
+  
+Total time: 28m 18s
+
+### Thoughts
+- I like the four shorter rounds over three longer rounds.
 
