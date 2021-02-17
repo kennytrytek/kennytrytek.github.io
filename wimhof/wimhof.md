@@ -929,7 +929,7 @@ Total time: 28m 18s
 # DAY 41
 -------
 
-Recording (#28): _No recording available_
+Recording (#28): https://www.youtube.com/watch?v=yeJ8UuaGXTM
 
 ## Noon
 ### Timings
@@ -948,4 +948,27 @@ Total time: 23m 40s
 
 ### Thoughts
 - _No new thoughts today._
+
+# DAY 42
+-------
+
+Recording (#29): _No recording available_
+
+## 5pm
+### Timings
+First 30 inhalations: 3m 15s  
+First breath hold: 1m 33s  
+Pause, inhale and hold: 22s  
+Second 40 inhalations : 4m 05s  
+Second breath hold: 2m 03s  
+Pause, inhale and hold: 21s  
+Third 35 inhalations : 3m 13s  
+Third breath hold: 2m 23s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 47s  
+  
+Total time: 22m 25s
+
+### Thoughts
+- Man, I had a lot of work thoughts shouting at me today. It is later in the day, so I had a whole day of thoughts to sort through, but it seems like I was able to sift through them and settle down.
 
