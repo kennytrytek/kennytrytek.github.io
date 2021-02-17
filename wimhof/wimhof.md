@@ -972,3 +972,26 @@ Total time: 22m 25s
 ### Thoughts
 - Man, I had a lot of work thoughts shouting at me today. It is later in the day, so I had a whole day of thoughts to sort through, but it seems like I was able to sift through them and settle down.
 
+# DAY 43
+-------
+
+Recording (#30): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 05s  
+First breath hold: 1m 19s  
+Pause, inhale and hold: 22s  
+Second 35 inhalations : 3m 46s  
+Second breath hold: 1m 51s  
+Pause, inhale and hold: 25s  
+Third 40 inhalations : 4m 03s  
+Third breath hold: 2m 35s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 39s  
+  
+Total time: 22m 29s
+
+### Thoughts
+- _No new thoughts today._
+
