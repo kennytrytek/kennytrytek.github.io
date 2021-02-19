@@ -998,7 +998,7 @@ Total time: 22m 29s
 # DAY 44
 -------
 
-Recording (#31): _No recording available_
+Recording (#31): https://www.youtube.com/watch?v=Is66lAmofnM
 
 ## Noon
 ### Timings
@@ -1017,4 +1017,27 @@ Total time: 23m 34s
 
 ### Thoughts
 - I think I messed up the counting again at some point, but I'm not sure. This is a _very_ disorienting process.
+
+# DAY 45
+-------
+
+Recording (#32): _No recording available_
+
+## 5pm
+### Timings
+First 30 inhalations: 3m 04s  
+First breath hold: 1m 25s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 3m 47s  
+Second breath hold: 1m 53s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 3m 59s  
+Third breath hold: 2m 38s  
+Pause, inhale and hold: 22s   
+Relax until hands stop tingling: 4m 31s  
+  
+Total time: 22m 21s
+
+### Thoughts
+- _No new thoughts today._
 
