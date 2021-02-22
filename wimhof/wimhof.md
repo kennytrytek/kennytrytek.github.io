@@ -1021,7 +1021,7 @@ Total time: 23m 34s
 # DAY 45
 -------
 
-Recording (#32): _No recording available_
+Recording (#32): https://www.youtube.com/watch?v=UQs1FTP7NjM
 
 ## 5pm
 ### Timings
@@ -1040,4 +1040,37 @@ Total time: 22m 21s
 
 ### Thoughts
 - _No new thoughts today._
+
+
+# DAY 46
+-------
+
+Unfortunately, I did not have time to breathe today. Somehow, I survived. :)
+
+
+# DAY 47
+-------
+
+Recording (#33): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 04s  
+First breath hold: 1m 25s  
+Pause, inhale and hold: 28s  
+Second 30 inhalations : 3m 12s  
+Second breath hold: 1m 48s  
+Pause, inhale and hold: 22s  
+Third 30 inhalations : 3m 09s  
+Third breath hold: 2m 07s  
+Pause, inhale and hold: 21s   
+Fourth 30 inhalations : 3m 01s  
+Fourth breath hold: 2m 31s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 31s  
+  
+Total time: 26m 23s
+
+### Thoughts
+- It's a lot easier to relax on the weekend than during the week when I have work thoughts attacking me.
 
