@@ -1074,3 +1074,26 @@ Total time: 26m 23s
 ### Thoughts
 - It's a lot easier to relax on the weekend than during the week when I have work thoughts attacking me.
 
+# DAY 48
+-------
+
+Recording (#34): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 11s  
+First breath hold: 1m 35s  
+Pause, inhale and hold: 22s  
+Second 35 inhalations : 3m 51s  
+Second breath hold: 2m 02s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 4m 13s  
+Third breath hold: 2m 48s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 38s  
+  
+Total time: 23m 23s
+
+### Thoughts
+- _No interesting thoughts today._
+
