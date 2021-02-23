@@ -1051,7 +1051,7 @@ Unfortunately, I did not have time to breathe today. Somehow, I survived. :)
 # DAY 47
 -------
 
-Recording (#33): _No recording available_
+Recording (#33): https://www.youtube.com/watch?v=UwbJv8ZgzcA
 
 ## Noon
 ### Timings
@@ -1077,7 +1077,7 @@ Total time: 26m 23s
 # DAY 48
 -------
 
-Recording (#34): _No recording available_
+Recording (#34): https://www.youtube.com/watch?v=OMu6pZQXo7M
 
 ## Noon
 ### Timings
@@ -1096,4 +1096,27 @@ Total time: 23m 23s
 
 ### Thoughts
 - _No interesting thoughts today._
+
+# DAY 49
+-------
+
+Recording (#35): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 06s  
+First breath hold: 1m 37s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 3m 33s  
+Second breath hold: 2m 17s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 4m 04s  
+Third breath hold: 2m 46s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 45s  
+  
+Total time: 23m 12s
+
+### Thoughts
+- I think this is the one I'll send to the Edge Venture guys. I'd like to re-record the intro video first though; I feel like I have more to add to it after doing this breathing exercise for so long.
 
