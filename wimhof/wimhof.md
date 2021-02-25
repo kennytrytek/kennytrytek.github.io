@@ -1123,7 +1123,7 @@ Total time: 23m 12s
 # DAY 50
 -------
 
-Recording (#36): _No recording available_
+Recording (#36): https://www.youtube.com/watch?v=bWGZrNePwrI
 
 ## Noon
 ### Timings
@@ -1142,4 +1142,27 @@ Total time: 21m 56s
 
 ### Thoughts
 - _No interesting thoughts today._
+
+# DAY 51
+-------
+
+Recording (#37): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 08s  
+First breath hold: 1m 25s  
+Pause, inhale and hold: 22s  
+Second 35 inhalations : 3m 35s  
+Second breath hold: 1m 50s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 3m 57s  
+Third breath hold: 2m 42s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 36s  
+  
+Total time: 22m 17s
+
+### Thoughts
+- I noticed that I'm feeling pretty defensive about a meeting coming up at work after this related to a particular habit of mine, and it translates to me thinking that everyone watching this video has a lot of criticisms about what I should or should not be doing/saying during these videos. I am having a Renew prayer ministry session on my PTO tomorrow, so I'll explore this reaction further at that time.
 
