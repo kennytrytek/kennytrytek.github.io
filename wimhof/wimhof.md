@@ -1189,3 +1189,26 @@ Total time: 23m 12s
 ### Thoughts
 - Today I was very relaxed coming into it; I have the day off work and had a cathartic Renew prayer ministry session where I was able to express some negative emotions and feelings and receive affirmation and compassion. Being relaxed at the start seemed to deepen the experience; my hands were buzzing like crazy today.
 
+# DAY 53
+-------
+
+Recording (#39): _No recording available_
+
+## Noon
+### Timings
+First 30 inhalations: 3m 03s  
+First breath hold: 1m 29s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 3m 28s  
+Second breath hold: 1m 52s  
+Pause, inhale and hold: 23s  
+Third 40 inhalations : 3m 50s  
+Third breath hold: 2m 31s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 37s  
+  
+Total time: 21m 56s
+
+### Thoughts
+- Peace was on my mind today. I was thinking that this exercise might be a helpful thing to do before talking with someone about an unresolved conflict or difficult situation. I will be thinking about my own relationships and seeing if there's anyone I need to talk to.
+
