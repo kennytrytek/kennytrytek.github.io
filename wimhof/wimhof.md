@@ -1169,7 +1169,7 @@ Total time: 22m 17s
 # DAY 52
 -------
 
-Recording (#38): _No recording available_
+Recording (#38): https://www.youtube.com/watch?v=3FqYcJ9kLdA
 
 ## Noon
 ### Timings
@@ -1192,7 +1192,7 @@ Total time: 23m 12s
 # DAY 53
 -------
 
-Recording (#39): _No recording available_
+Recording (#39): https://www.youtube.com/watch?v=LcBbUEwxdJA
 
 ## Noon
 ### Timings
@@ -1211,4 +1211,27 @@ Total time: 21m 56s
 
 ### Thoughts
 - Peace was on my mind today. I was thinking that this exercise might be a helpful thing to do before talking with someone about an unresolved conflict or difficult situation. I will be thinking about my own relationships and seeing if there's anyone I need to talk to.
+
+# DAY 54
+-------
+
+Recording (#40): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 11s  
+First breath hold: 1m 28s  
+Pause, inhale and hold: 25s  
+Second 35 inhalations : 3m 47s  
+Second breath hold: 1m 56s  
+Pause, inhale and hold: 25s  
+Third 40 inhalations : 4m 15s  
+Third breath hold: 2m 34s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 5m 01s  
+  
+Total time: 23m 23s
+
+### Thoughts
+- _No interesting thoughts today._
 
