@@ -1215,7 +1215,7 @@ Total time: 21m 56s
 # DAY 54
 -------
 
-Recording (#40): _No recording available._
+Recording (#40): https://www.youtube.com/watch?v=itCvqI7DQ4M
 
 ## Noon
 ### Timings
@@ -1231,6 +1231,29 @@ Pause, inhale and hold: 21s
 Relax until hands stop tingling: 5m 01s  
   
 Total time: 23m 23s
+
+### Thoughts
+- _No interesting thoughts today._
+
+# DAY 55
+-------
+
+Recording (#41): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 16s  
+First breath hold: 1m 24s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 3m 40s  
+Second breath hold: 1m 53s  
+Pause, inhale and hold: 24s  
+Third 40 inhalations : 4m 06s  
+Third breath hold: 2m 46s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 57s  
+  
+Total time: 23m 08s
 
 ### Thoughts
 - _No interesting thoughts today._
