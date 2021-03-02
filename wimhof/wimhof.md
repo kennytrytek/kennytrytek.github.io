@@ -1238,7 +1238,7 @@ Total time: 23m 23s
 # DAY 55
 -------
 
-Recording (#41): _No recording available._
+Recording (#41): https://www.youtube.com/watch?v=UUWZEsnNmyg
 
 ## Noon
 ### Timings
@@ -1257,4 +1257,27 @@ Total time: 23m 08s
 
 ### Thoughts
 - _No interesting thoughts today._
+
+# DAY 56
+-------
+
+Recording (#42): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 35s  
+First breath hold: 1m 32s  
+Pause, inhale and hold: 20s  
+Second 35 inhalations : 4m 04s  
+Second breath hold: 1m 54s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 4m 23s  
+Third breath hold: 2m 33s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 40s  
+  
+Total time: 23m 42s
+
+### Thoughts
+- Pacing was slower today; not sure why. Didn't seem to appreciably affect breath hold times at all.
 
