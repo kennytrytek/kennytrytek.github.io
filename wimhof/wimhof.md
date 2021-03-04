@@ -1284,7 +1284,7 @@ Total time: 23m 42s
 # DAY 57
 -------
 
-Recording (#43): _No recording available._
+Recording (#43): https://www.youtube.com/watch?v=s_Bor5Jmrjo
 
 ## Noon
 ### Timings
@@ -1303,4 +1303,27 @@ Total time: 22m 49s
 
 ### Thoughts
 - Accidentally counted only to 35 on the third round. ¯\\\_(ツ)\_/¯
+
+# DAY 58
+-------
+
+Recording (#44): _No recording available._
+
+## Noon
+### Timings
+First 31 inhalations: 3m 29s  
+First breath hold: 1m 46s  
+Pause, inhale and hold: 23s  
+Second 35 inhalations : 3m 51s  
+Second breath hold: 1m 52s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 3m 49s  
+Third breath hold: 2m 34s  
+Pause, inhale and hold: 22s   
+Relax until hands stop tingling: 4m 35s  
+  
+Total time: 23m 00s
+
+### Thoughts
+- Accidentally counted only to 31 on the first round. ¯\\\_(ツ)\_/¯ Life goal: someday I will learn how to count.
 
