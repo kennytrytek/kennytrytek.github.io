@@ -1307,7 +1307,7 @@ Total time: 22m 49s
 # DAY 58
 -------
 
-Recording (#44): _No recording available._
+Recording (#44): https://www.youtube.com/watch?v=q2j7rc1DCB8
 
 ## Noon
 ### Timings
@@ -1325,5 +1325,34 @@ Relax until hands stop tingling: 4m 35s
 Total time: 23m 00s
 
 ### Thoughts
-- Accidentally counted only to 31 on the first round. ¯\\\_(ツ)\_/¯ Life goal: someday I will learn how to count.
+- Accidentally counted only to 31 on the first round. ¯\\\_(ツ)\_/¯
+- Life goal: someday I will learn how to count.
+
+# DAYS 59 - 61
+-------
+
+Unfortunately, I did not have time to breathe on these days. Busy! Somehow, I survived. :)
+
+# DAY 62
+-------
+
+Recording (#45): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 2m 59s  
+First breath hold: 1m 43s  
+Pause, inhale and hold: 22s  
+Second 35 inhalations : 4m 04s  
+Second breath hold: 2m 10s  
+Pause, inhale and hold: 22s  
+Third 40 inhalations : 3m 54s  
+Third breath hold: 2m 50s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 37s  
+  
+Total time: 23m 22s
+
+### Thoughts
+- _No interesting thoughts today._
 
