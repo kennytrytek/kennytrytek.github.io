@@ -1336,7 +1336,7 @@ Unfortunately, I did not have time to breathe on these days. Busy! Somehow, I su
 # DAY 62
 -------
 
-Recording (#45): _No recording available._
+Recording (#45): https://www.youtube.com/watch?v=6ySMKzJq9cw&t=1s
 
 ## Noon
 ### Timings
@@ -1352,6 +1352,29 @@ Pause, inhale and hold: 20s
 Relax until hands stop tingling: 4m 37s  
   
 Total time: 23m 22s
+
+### Thoughts
+- _No interesting thoughts today._
+
+# DAY 63
+-------
+
+Recording (#46): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 09s  
+First breath hold: 1m 32s  
+Pause, inhale and hold: 22s  
+Second 35 inhalations : 4m 02s  
+Second breath hold: 2m 03s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 3m 52s  
+Third breath hold: 3m 00s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 38s  
+  
+Total time: 23m 21s
 
 ### Thoughts
 - _No interesting thoughts today._
