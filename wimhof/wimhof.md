@@ -1382,7 +1382,7 @@ Total time: 23m 21s
 # DAY 64
 -------
 
-Recording (#47): _No recording available._
+Recording (#47): https://www.youtube.com/watch?v=5domKNNGYnQ
 
 ## Noon
 ### Timings
@@ -1401,4 +1401,27 @@ Total time: 22m 24s
 
 ### Thoughts
 - The inner voice raising objections about what everyone watching this might be thinking is really loud, particularly during the third round of inhalations. I wonder if that comes out more wheas I become more relaxed and get below the surface of my thoughts.
+
+# DAY 65
+-------
+
+Recording (#48): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 04s  
+First breath hold: 1m 31s  
+Pause, inhale and hold: 22s  
+Second 35 inhalations : 3m 40s  
+Second breath hold: 2m 00s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 4m 14s  
+Third breath hold: 2m 51s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 36s  
+  
+Total time: 23m 00s
+
+### Thoughts
+- _No interesting thoughts today._
 
