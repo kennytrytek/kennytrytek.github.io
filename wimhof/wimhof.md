@@ -1405,7 +1405,7 @@ Total time: 22m 24s
 # DAY 65
 -------
 
-Recording (#48): _No recording available._
+Recording (#48): https://www.youtube.com/watch?v=fMyBTFLqxTg
 
 ## Noon
 ### Timings
@@ -1424,4 +1424,27 @@ Total time: 23m 00s
 
 ### Thoughts
 - _No interesting thoughts today._
+
+# DAY 66
+-------
+
+Recording (#49): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 09s  
+First breath hold: 1m 35s  
+Pause, inhale and hold: 20s  
+Second 35 inhalations : 3m 45s  
+Second breath hold: 2m 20s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 4m 06s  
+Third breath hold: 2m 57s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 45s  
+  
+Total time: 23m 39s
+
+### Thoughts
+- I really like this breathing exercise. It is so consistently calming and energizing. :)
 
