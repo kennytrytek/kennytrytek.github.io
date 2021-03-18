@@ -1497,7 +1497,7 @@ Total time: 23m 36s
 # DAY 69
 -------
 
-Recording (#52): _No recording available._
+Recording (#52): https://www.youtube.com/watch?v=RPmAxD97IPY
 
 ## Noon
 ### Timings
@@ -1516,4 +1516,32 @@ Total time: 23m 04s
 
 ### Thoughts
 - Turns out the Wim Hof breathing method is being given a trial run in an upcoming Edge Venture weekend in April! I'll be interested to see how that works out.
+
+# Day 70
+-------
+
+Unfortunately, I did not have time to breathe today. Ack!
+
+# DAY 71
+-------
+
+Recording (#53): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 23s  
+First breath hold: 1m 34s  
+Pause, inhale and hold: 25s  
+Second 35 inhalations : 4m 11s  
+Second breath hold: 1m 58s  
+Pause, inhale and hold: 21s  
+Third 40 inhalations : 4m 06s  
+Third breath hold: 2m 35s  
+Pause, inhale and hold: 26s   
+Relax until hands stop tingling: 4m 50s  
+  
+Total time: 23m 50s
+
+### Thoughts
+- _No interesting thoughts today._
 
