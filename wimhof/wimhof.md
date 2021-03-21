@@ -1525,7 +1525,7 @@ Unfortunately, I did not have time to breathe today. Ack!
 # DAY 71
 -------
 
-Recording (#53): _No recording available._
+Recording (#53): https://www.youtube.com/watch?v=hZDSGdcJJ6g
 
 ## Noon
 ### Timings
@@ -1541,6 +1541,47 @@ Pause, inhale and hold: 26s
 Relax until hands stop tingling: 4m 50s  
   
 Total time: 23m 50s
+
+### Thoughts
+- _No interesting thoughts today._
+
+# DAY 72
+-------
+
+_No recording available._
+
+## 11pm
+### Timings
+_No timings recorded._
+
+### Thoughts
+- I didn't record timings or a video today because I had missed the usual lunchtime recording and was using this exercise to help calm down. I had worked hard this day until 9pm and Maggie was getting annoyed with me because I wouldn't let her sleep.
+- During this exercise, an inner voice came forward which sounded like a siren; high-pitched wailing. It seemed to be under a lot of stress, and was feeling very helpless. I think the exercise helped calm this part of me down some, though I could still pretty easily connect with it after the breathing. This will probably be something to explore more in my next Renew prayer ministry time.
+
+# Day 73
+-------
+
+Unfortunately, I did not have time to breathe today. Ack!
+
+# DAY 74
+-------
+
+Recording (#54): _No recording available._
+
+## 5pm
+### Timings
+First 30 inhalations: 3m 20s  
+First breath hold: 1m 32s  
+Pause, inhale and hold: 21s  
+Second 35 inhalations : 3m 53s  
+Second breath hold: 2m 03s  
+Pause, inhale and hold: 22s  
+Third 40 inhalations : 3m 51s  
+Third breath hold: 2m 43s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 33s  
+  
+Total time: 23m 00s
 
 ### Thoughts
 - _No interesting thoughts today._
