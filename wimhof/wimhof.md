@@ -1566,7 +1566,7 @@ Unfortunately, I did not have time to breathe today. Ack!
 # DAY 74
 -------
 
-Recording (#54): _No recording available._
+Recording (#54): https://www.youtube.com/watch?v=2MmUgGBZfDA
 
 ## 5pm
 ### Timings
@@ -1586,3 +1586,25 @@ Total time: 23m 00s
 ### Thoughts
 - _No interesting thoughts today._
 
+# DAY 75
+-------
+
+Recording (#55): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 20s  
+First breath hold: 1m 53s  
+Pause, inhale and hold: 23s  
+Second 35 inhalations : 3m 54s  
+Second breath hold: 2m 07s  
+Pause, inhale and hold: 19s  
+Third 40 inhalations : 4m 39s  
+Third breath hold: 2m 44s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 37s  
+  
+Total time: 24m 16s
+
+### Thoughts
+- _No interesting thoughts today._
