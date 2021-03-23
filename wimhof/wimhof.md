@@ -1589,7 +1589,7 @@ Total time: 23m 00s
 # DAY 75
 -------
 
-Recording (#55): _No recording available._
+Recording (#55): https://www.youtube.com/watch?v=fllE-Rq0U7Y
 
 ## Noon
 ### Timings
@@ -1605,6 +1605,29 @@ Pause, inhale and hold: 20s
 Relax until hands stop tingling: 4m 37s  
   
 Total time: 24m 16s
+
+### Thoughts
+- _No interesting thoughts today._
+
+# DAY 76
+-------
+
+Recording (#56): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 11s  
+First breath hold: 1m 28s  
+Pause, inhale and hold: 26s  
+Second 35 inhalations : 4m 01s  
+Second breath hold: 1m 53s  
+Pause, inhale and hold: 25s  
+Third 40 inhalations : 3m 46s  
+Third breath hold: 2m 40s  
+Pause, inhale and hold: 18s   
+Relax until hands stop tingling: 4m 38s  
+  
+Total time: 24m 47s
 
 ### Thoughts
 - _No interesting thoughts today._
