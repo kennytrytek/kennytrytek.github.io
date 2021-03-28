@@ -1635,7 +1635,7 @@ Total time: 24m 47s
 # DAY 77
 -------
 
-Recording (#57): _No recording available._
+Recording (#57): https://www.youtube.com/watch?v=n03Ie8ulUoQ
 
 ## Noon
 ### Timings
@@ -1654,4 +1654,32 @@ Total time: 23m 34s
 
 ### Thoughts
 - When I say "Be still." during the ending, what I'm thinking is: "Be still, and know that I am God." Not that I myself am God, but I'm recalling the verse from Psalm 46: _Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth._
+
+# DAY 78-79
+-------
+
+Unfortunately, I was unable to breathe these days. Ack!
+
+# DAY 80
+-------
+
+Recording (#58): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 12s  
+First breath hold: 1m 36s  
+Pause, inhale and hold: 30s  
+Second 35 inhalations : 3m 47s  
+Second breath hold: 2m 03s  
+Pause, inhale and hold: 28s  
+Third 40 inhalations : 4m 25s  
+Third breath hold: 2m 56s  
+Pause, inhale and hold: 22s   
+Relax until hands stop tingling: 5m 00s  
+  
+Total time: 24m 20s
+
+### Thoughts
+- _No interesting thoughts today._
 
