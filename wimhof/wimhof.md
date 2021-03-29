@@ -1663,7 +1663,7 @@ Unfortunately, I was unable to breathe these days. Ack!
 # DAY 80
 -------
 
-Recording (#58): _No recording available._
+Recording (#58): https://www.youtube.com/watch?v=aXidw3kshcw
 
 ## Noon
 ### Timings
@@ -1682,4 +1682,27 @@ Total time: 24m 20s
 
 ### Thoughts
 - _No interesting thoughts today._
+
+# DAY 81
+-------
+
+Recording (#59): _No recording available._
+
+## Noon
+### Timings
+First 40 inhalations: 4m 14s  
+First breath hold: 1m 43s  
+Pause, inhale and hold: 20s  
+Second 40 inhalations : 4m 44s  
+Second breath hold: 2m 13s  
+Pause, inhale and hold: 22s  
+Third 40 inhalations : 4m 13s  
+Third breath hold: 3m 04s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 30s  
+  
+Total time: 25m 46s
+
+### Thoughts
+- Wow, 40 breaths each time is certainly more intense than 30, 35, 40. I'll have to continue to mix that in every once in a while, and maybe a fourth cycle on a weekend or something.
 
