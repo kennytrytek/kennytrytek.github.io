@@ -1686,7 +1686,7 @@ Total time: 24m 20s
 # DAY 81
 -------
 
-Recording (#59): _No recording available._
+Recording (#59): https://www.youtube.com/watch?v=M-e5UxYor-Q
 
 ## Noon
 ### Timings
@@ -1705,4 +1705,50 @@ Total time: 25m 46s
 
 ### Thoughts
 - Wow, 40 breaths each time is certainly more intense than 30, 35, 40. I'll have to continue to mix that in every once in a while, and maybe a fourth cycle on a weekend or something.
+
+# DAY 82
+-------
+
+Recording (#60): https://www.youtube.com/watch?v=ayAhYo_gwio
+
+## Noon
+### Timings
+First 30 inhalations: 3m 15s  
+First breath hold: 1m 31s  
+Pause, inhale and hold: 29s  
+Second 35 inhalations : 3m 45s  
+Second breath hold: 1m 52s  
+Pause, inhale and hold: 29s  
+Third 40 inhalations : 4m 19s  
+Third breath hold: 2m 40s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 30s  
+  
+Total time: 23m 13s
+
+### Thoughts
+- If you need something to focus on during the "be still" portion, focus your attention on a point in space just in front of your nose.
+
+# DAY 83
+-------
+
+Recording (#61): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 20s  (estimated)
+First breath hold: 1m 30s  (estimated)
+Pause, inhale and hold: 27s  
+Second 35 inhalations : 3m 38s  
+Second breath hold: 1m 56s  
+Pause, inhale and hold: 36s  
+Third 40 inhalations : 4m 04s  
+Third breath hold: 2m 33s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 33s  
+  
+Total time: 23m 00s
+
+### Thoughts
+- _No interesting thoughts today._
 
