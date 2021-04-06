@@ -1752,3 +1752,54 @@ Total time: 23m 00s
 ### Thoughts
 - _No interesting thoughts today._
 
+# DAY 84 - 86
+-------
+
+I did not breathe on these days. Apparently, I'm inconsistent on days off and weekends.
+
+# DAY 87
+-------
+
+Recording (#62): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 14s  
+First breath hold: 1m 27s  
+Pause, inhale and hold: 29s  
+Second 30 inhalations : 3m 04s  
+Second breath hold: 1m 48s  
+Pause, inhale and hold: 36s  
+Third 30 inhalations : 3m 06s  
+Third breath hold: 2m 12s  
+Pause, inhale and hold: 20s   
+Relax until hands stop tingling: 4m 42s  
+  
+Total time: 21m 00s
+
+### Thoughts
+- _No interesting thoughts today._
+
+# DAY 88
+-------
+
+Recording (#63): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 21s  
+First breath hold: 1m 42s  
+Pause, inhale and hold: 29s  
+Second 35 inhalations : 3m 39s  
+Second breath hold: 2m 02s  
+Pause, inhale and hold: 28s  
+Third 40 inhalations : 4m 19s  
+Third breath hold: 2m 38s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 40s  
+  
+Total time: 23m 41s
+
+### Thoughts
+- _No interesting thoughts today._
+
