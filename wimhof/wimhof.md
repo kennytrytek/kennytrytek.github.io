@@ -1732,7 +1732,7 @@ Total time: 23m 13s
 # DAY 83
 -------
 
-Recording (#61): _No recording available._
+Recording (#61): https://www.youtube.com/watch?v=oUJ0ObcU0bo
 
 ## Noon
 ### Timings
@@ -1760,7 +1760,7 @@ I did not breathe on these days. Apparently, I'm inconsistent on days off and we
 # DAY 87
 -------
 
-Recording (#62): _No recording available._
+Recording (#62): https://www.youtube.com/watch?v=O-RvJ9eqajc
 
 ## Noon
 ### Timings
@@ -1783,7 +1783,7 @@ Total time: 21m 00s
 # DAY 88
 -------
 
-Recording (#63): _No recording available._
+Recording (#63): https://www.youtube.com/watch?v=8U2MyyzUsqY
 
 ## Noon
 ### Timings
@@ -1802,4 +1802,28 @@ Total time: 23m 41s
 
 ### Thoughts
 - _No interesting thoughts today._
+
+# DAY 89
+-------
+
+Recording (#64): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 15s  
+First breath hold: 1m 28s  
+Pause, inhale and hold: 32s  
+Second 35 inhalations : 3m 23s  
+Second breath hold: 1m 55s  
+Pause, inhale and hold: 29s  
+Third 40 inhalations : 4m 13s  
+Third breath hold: 2m 35s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 30s  
+  
+Total time: 22m 42s
+
+### Thoughts
+- Today I was considering my problem-solving approach in my work as an engineer. I tend to answer these questions in order: What is a functional solution? What is the 'right' solution? What is the optimized solution? My default setting is to find the optimized solution, so an important governing question before starting to answer those questions is: What level of solution do I need right now?
+- Also peak operating hours are between 1pm and 6pm, then 9pm to midnight. Afternoon meetings really kill my productivity.
 
