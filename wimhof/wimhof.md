@@ -1830,7 +1830,7 @@ Total time: 22m 42s
 # DAY 90
 -------
 
-Recording (#65): _No recording available._
+Recording (#65): https://www.youtube.com/watch?v=XHKJOTgAmIY
 
 ## Noon
 ### Timings
@@ -1896,3 +1896,25 @@ Total time: 23m 00s
 ### Thoughts
 - _No interesting thoughts today._
 
+# DAY 93
+-------
+
+Recording (#68): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 21s  
+First breath hold: 1m 34s  
+Pause, inhale and hold: 30s  
+Second 35 inhalations : 3m 11s  
+Second breath hold: 1m 57s  
+Pause, inhale and hold: 32s  
+Third 30 inhalations : 2m 54s  
+Third breath hold: 2m 11s  
+Pause, inhale and hold: 21s   
+Relax until hands stop tingling: 4m 48s  
+  
+Total time: 21m 21s
+
+### Thoughts
+- _No interesting thoughts today._
