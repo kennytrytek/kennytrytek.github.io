@@ -1942,3 +1942,26 @@ Total time: 23m 00s
 ### Thoughts
 - _No interesting thoughts today._
 
+# DAY 95
+-------
+
+Recording (#70): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 01s  
+First breath hold: 1m 30s  
+Pause, inhale and hold: 30s  
+Second 35 inhalations : 3m 28s  
+Second breath hold: 1m 53s  
+Pause, inhale and hold: 35s  
+Third 40 inhalations : 4m 01s  
+Third breath hold: 2m 26s  
+Pause, inhale and hold: 18s   
+Relax until hands stop tingling: 4m 43s  
+  
+Total time: 22m 25s
+
+### Thoughts
+- _No interesting thoughts today._
+
