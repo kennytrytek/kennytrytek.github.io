@@ -1853,7 +1853,7 @@ Total time: 22m 18s
 # DAY 91
 -------
 
-Recording (#66): _No recording available._
+Recording (#66): https://youtu.be/W7mnlVuSr-c
 
 ## Noon
 ### Timings
@@ -1876,7 +1876,7 @@ Total time: 22m 55s
 # DAY 92
 -------
 
-Recording (#67): _No recording available._
+Recording (#67): https://youtu.be/FZbIF-oJJ3Y
 
 ## Noon
 ### Timings
@@ -1899,7 +1899,7 @@ Total time: 23m 00s
 # DAY 93
 -------
 
-Recording (#68): _No recording available._
+Recording (#68): https://youtu.be/-wxxBW5afaw
 
 ## Noon
 ### Timings
@@ -1988,3 +1988,34 @@ Total time: 22m 36s
 ### Thoughts
 - _No interesting thoughts today._
 
+# DAY 97
+-------
+
+Recording (#72): _No recording available._
+
+## Noon
+### Timings
+First 30 inhalations: 3m 21s  
+First breath hold: 1m 44s  
+Pause, inhale and hold: 41s  
+Second 35 inhalations : 3m 47s  
+Second breath hold: 2m 03s  
+Pause, inhale and hold: 33s  
+Third 40 inhalations : 4m 25s  
+Third breath hold: 2m 24s  
+Pause, inhale and hold: 18s   
+Relax until hands stop tingling: 4m 41s  
+  
+Total time: 24m 00s
+
+### Thoughts
+- _No interesting thoughts today._
+
+# Latest Update
+-------
+
+Hello,
+
+Since spring has come and summer is almost here, I'm finding that this exercise feels less necessary. I am able to find the same mental focus and clarity without this breathing exercise. This is probably something I will return to from time to time, but not the same way I have been for the last few months. I hope the recordings I have made and the logs here are helpful to you.
+
+~Kenny
